@@ -1,3 +1,3 @@
-# node-long-polling
-#### Basic client <=> server (Browser <=> Node Server) communication example using LP technique.
-May be used if client doesn't support WebSockets
+# node-websockets-fallback
+#### client <=> server communication using long-polling
+May be used as a fallback for non-supported websockets clients
